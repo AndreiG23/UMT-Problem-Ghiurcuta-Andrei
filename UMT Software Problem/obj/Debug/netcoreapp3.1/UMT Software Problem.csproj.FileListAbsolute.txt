@@ -1,0 +1,13 @@
+G:\Projects\UMT Software Problem\UMT Software Problem\bin\Debug\netcoreapp3.1\UMT Software Problem.exe
+G:\Projects\UMT Software Problem\UMT Software Problem\bin\Debug\netcoreapp3.1\UMT Software Problem.deps.json
+G:\Projects\UMT Software Problem\UMT Software Problem\bin\Debug\netcoreapp3.1\UMT Software Problem.runtimeconfig.json
+G:\Projects\UMT Software Problem\UMT Software Problem\bin\Debug\netcoreapp3.1\UMT Software Problem.runtimeconfig.dev.json
+G:\Projects\UMT Software Problem\UMT Software Problem\bin\Debug\netcoreapp3.1\UMT Software Problem.dll
+G:\Projects\UMT Software Problem\UMT Software Problem\bin\Debug\netcoreapp3.1\UMT Software Problem.pdb
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.csprojAssemblyReference.cache
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.AssemblyInfoInputs.cache
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.AssemblyInfo.cs
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.csproj.CoreCompileInputs.cache
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.dll
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.pdb
+G:\Projects\UMT Software Problem\UMT Software Problem\obj\Debug\netcoreapp3.1\UMT Software Problem.genruntimeconfig.cache
